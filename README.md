@@ -1,7 +1,4 @@
 ## Spiral Out, Keep Going...
-<div>
- <video class="video media" id="video-alertacademicbarnswallow" alt="Dark Souls - Dark Sign machinima dark souls game movie dark souls all cutscenes GIF" height="1080" width="1920" autoplay="" playsinline="" preload="auto" poster="https://thumbs.gfycat.com/AlertAcademicBarnswallow-mobile.jpg" tabindex="-1" style="max-width: 640px; margin: 0px auto; display: block;"><source src="https://thumbs.gfycat.com/AlertAcademicBarnswallow-mobile.mp4" type="video/mp4"><source src="https://fat.gfycat.com/AlertAcademicBarnswallow.mp4" type="video/mp4"><source src="https://thumbs.gfycat.com/AlertAcademicBarnswallow-mobile.mp4" type="video/mp4"></video>
-</div>
 &nbsp;
 
 - 😄 Pronomes: Ele/Dele (He/Him)
@@ -30,6 +27,7 @@
   <img align="center" alt="Ewe-PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img align="center" alt="Ewe-Laravel" src="https://laravel.com/img/logomark.min.svg" height="30" width="40" alt="Laravel">
   <img align="center" alt="Ewe-Vuejs" src="https://vuejs.org/images/logo.svg" height="30" width="40" alt="Vue.js">
+ <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/ymOEFQB8mEx4LCC40L/giphy.gif">
 </div>
   
   ##
