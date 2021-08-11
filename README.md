@@ -27,10 +27,8 @@
   <img align="center" alt="Ewe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ewe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ewe-PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
-  <a href="/" class="flex items-center">
-      <img class="" src="https://laravel.com/img/logomark.min.svg" height="30" width="40" alt="Laravel">
-      <img class="hidden ml-5 sm:block" src="https://laravel.com/img/logotype.min.svg" alt="Laravel">
-  </a>
+  <img align="center" class="" src="https://laravel.com/img/logomark.min.svg" height="30" width="40" alt="Laravel">
+  <img align="center" class="hidden ml-5 sm:block" src="https://laravel.com/img/logotype.min.svg" alt="Laravel">
 </div>
   
   ##
