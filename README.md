@@ -28,7 +28,7 @@
   <img align="center" alt="Ewe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ewe-PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img align="center" alt="Ewe-Laravel" src="https://laravel.com/img/logomark.min.svg" height="30" width="40" alt="Laravel">
-  <img align="center" alt="Ewe-Vuejs" src="https://vue.js.org/images/logo.svg" height="30" width="40" alt="Vue.js">
+  <img align="center" alt="Ewe-Vuejs" src="https://vuejs.org/images/logo.svg" height="30" width="40" alt="Vue.js">
 </div>
   
   ##
