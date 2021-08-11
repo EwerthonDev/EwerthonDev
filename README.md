@@ -12,9 +12,9 @@
 
 ##
 ### Sobre mim:
- Formado em análise e desenvolvimento de sistemas e apaixonado por tecnologia, atualmente desempregado!
- Tenho conhecimento em PHP OO, CakePHP, Laravel 8, VueJs, Migrations, HTML5 Semântico, CSS3 Grid e Flexbox, Javascript DOM e Git
- Minha banda preferida é TOOL!
+ Formado em análise e desenvolvimento de sistemas e apaixonado por tecnologia, atualmente desempregado!<br>
+ Tenho conhecimento em PHP OO, CakePHP, Laravel 8, VueJs, Migrations, HTML5 Semântico, CSS3 Grid e Flexbox, Javascript DOM e Git<br>
+ Minha banda preferida é TOOL!<br>
  Sou fã da trilogia Dark Souls (bem como quase todos os jogos que a FromSoftware já fez)
  
  <div>
