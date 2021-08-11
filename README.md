@@ -1,5 +1,4 @@
-## Eae, Ewerthon Silva no toque!
-<b><h3>Spiral Out, Keep Going...</h3></b>
+## Spiral Out, Keep Going...
 - 😄 Pronomes: Ele/Dele (He/Him)
 - 👨🏾‍💻 Hoje estou trabalhando como Desenvolvedor PHP (Puro e Laravel)
 - 🐘 Estou constantemente estudando PHP
