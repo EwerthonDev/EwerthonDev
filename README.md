@@ -1,6 +1,6 @@
 ## Spiral Out, Keep Going...
 <div>
- <img height="120cm" src="https://c.tenor.com/Px_PMiYXFIMAAAAC/black-swirl.gif" align="middle"/>
+ <img height="120cm" src="https://thumbs.gfycat.com/AlertAcademicBarnswallow-mobile.mp4" align="middle"/>
 </div>
 &nbsp;
 
