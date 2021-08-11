@@ -1,6 +1,6 @@
 ## Spiral Out, Keep Going...
 <div>
- <img height="120cm" src="https://thumbs.gfycat.com/AlertAcademicBarnswallow-mobile.mp4" align="middle"/>
+ <video class="video media" id="video-alertacademicbarnswallow" alt="Dark Souls - Dark Sign machinima dark souls game movie dark souls all cutscenes GIF" height="1080" width="1920" autoplay="" playsinline="" preload="auto" poster="https://thumbs.gfycat.com/AlertAcademicBarnswallow-mobile.jpg" tabindex="-1" style="max-width: 640px; margin: 0px auto; display: block;"><source src="https://thumbs.gfycat.com/AlertAcademicBarnswallow-mobile.mp4" type="video/mp4"><source src="https://fat.gfycat.com/AlertAcademicBarnswallow.mp4" type="video/mp4"><source src="https://thumbs.gfycat.com/AlertAcademicBarnswallow-mobile.mp4" type="video/mp4"></video>
 </div>
 &nbsp;
 
