@@ -1,4 +1,22 @@
 ## Spiral Out, Keep Going...
+<div>
+ <img height="120cm" src="https://c.tenor.com/Px_PMiYXFIMAAAAC/black-swirl.gif" align="middle"/>
+</div>
+&nbsp;
+
+- 😄 Pronomes: Ele/Dele (He/Him)
+- 👨🏾‍💻 Hoje estou trabalhando como Desenvolvedor PHP (Puro e Laravel)
+- 🐘 Estou constantemente estudando PHP
+- Cada vez mais me aprofundando no desenvolvimento web, aprendendo mais e mais a cada dia!
+&nbsp;
+
+##
+### Sobre mim:
+ Formado em análise e desenvolvimento de sistemas e apaixonado por tecnologia, atualmente desempregado!
+ Tenho conhecimento em PHP OO, CakePHP, Laravel 8, VueJs, Migrations, HTML5 Semântico, CSS3 Grid e Flexbox, Javascript DOM e Git
+ Minha banda preferida é TOOL!
+ Sou fã da trilogia Dark Souls (bem como quase todos os jogos que a FromSoftware já fez)
+ 
  <div>
   <a href="https://github.com/ewerthondev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewerthondev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -8,6 +26,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://www.php.net/images/logos/php-logo.svg">
 </div>
   
   ##
