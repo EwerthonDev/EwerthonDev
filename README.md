@@ -1,6 +1,6 @@
 ## Spiral Out, Keep Going...
 - 😄 Pronomes: Ele/Dele (He/Him)
-- 👨🏾‍💻 Hoje estou trabalhando como Desenvolvedor PHP (Puro e Laravel)
+- 👨🏾‍💻 Hoje estou trabalhando como Desenvolvedor PHP
 - 🐘 Estou constantemente estudando PHP
 - Cada vez mais me aprofundando no desenvolvimento web, aprendendo mais e mais a cada dia!
 &nbsp;
