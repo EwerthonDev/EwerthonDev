@@ -24,7 +24,7 @@
   <img align="center" alt="Ewe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ewe-PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img align="center" alt="Ewe-Laravel" src="https://laravel.com/img/logomark.min.svg" height="30" width="40" alt="Laravel">
-  <img align="center" alt="Ewe-Vuejs" src="https://vuejs.org/images/logo.svg" height="30" width="40" alt="Vue.js">
+  <img align="center" alt="Ewe-Vuejs" src="https://www.dotcom-monitor.com/blog/wp-content/uploads/sites/3/2020/05/Vue-logo-1.png" height="30" width="40" alt="Vue.js">
   <img align="center" alt="Ewe-Cake" src="https://cakephp.org/img/cake-logo.svg" height="20" alt="CakePHP">
   <img align="right" alt="Ewe-Ani" src="https://media.giphy.com/media/ymOEFQB8mEx4LCC40L/giphy.gif" height="150">
 </div>
