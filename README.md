@@ -9,7 +9,7 @@
 ### Sobre mim: 
  
  - 👨🏾‍🎓 Formado em análise e desenvolvimento de sistemas e apaixonado por tecnologia!<br>
- - 📝 Tenho conhecimento em PHP OO, CakePHP, Laravel, VueJs, Migrations, HTML, CSS, Grid e Flexbox, Javascript e Git<br>
+ - 📝 Tenho conhecimento em PHP OO, CakePHP, Laravel, VueJs, Migrations, HTML, CSS, Bootstrap, TailwindCss, Javascript e Git<br>
  - 👁 Minha banda preferida é TOOL!<br>
  - 🎮 Sou fã da trilogia Dark Souls (bem como quase todos os jogos que a FromSoftware já fez)
  
